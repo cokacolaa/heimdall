@@ -6,7 +6,7 @@ Dashboard
 ### Install 
 
 ```
-git clone https://github.com/dylansysops/heimdall.git && cd ./heimdall && sudo docker-compose up -d
+git clone https://github.com/cokacolaa/heimdall.git && cd ./heimdall && sudo docker-compose up -d
 ```
 
 ### Login GUI
